@@ -1,0 +1,17 @@
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.exe
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.deps.json
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.runtimeconfig.json
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.dll
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.pdb
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.AssemblyReference.cache
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.Form1.resources
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.GenerateResource.cache
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.AssemblyInfoInputs.cache
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.AssemblyInfo.cs
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.dll
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\refint\NoteApp.dll
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.pdb
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.genruntimeconfig.cache
+C:\Users\TIGER\source\repos\NoteApp\NoteApp\obj\Debug\net6.0-windows\ref\NoteApp.dll
