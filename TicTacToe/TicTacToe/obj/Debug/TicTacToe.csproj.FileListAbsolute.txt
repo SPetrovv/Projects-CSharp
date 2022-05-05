@@ -1,0 +1,11 @@
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\TIGER\Desktop\Projects-CSharp\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
